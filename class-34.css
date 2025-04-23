@@ -1,0 +1,16 @@
+button{
+  background: wheat;
+  font-size: 18px;
+  color: black;
+  border: 1px solid rgb(244, 186, 186);
+  border-radius: 25px;
+  padding: 5px 12px;
+}
+.welcomeHeading{
+  color: black;
+  font-size: 40px;
+  text-align: center;
+  padding: 20px 0;
+  background: rgb(247, 123, 247);
+  border-radius: 15px;
+}
